@@ -5,6 +5,12 @@ unit StateSpace_StockRecruitment_Model_XSR;
 //                 Pacific pink salmon stock-recruitment analysis” 
 //                 submitted for peer review and publication
 //  (c) Zhenming Su, 2023
+//
+//  This code is based on two privous articles:
+//  Su, Z, Peterman, R.M., and Haeseker, S. 2004. Spatial hierarchical Bayesian models for stock-recruitment analysis of 
+//      pink salmon (Oncorhynchus gorbuscha). Can. J. Fish. Aquat. Sci. 61: 2471–2486.
+//  Su, Z., and Peterman, R.M. 2012. Performance of a Bayesian state-space model of semelparous species 
+//      for stock-recruitment data subject to measurement error. Ecological Modelling 224: 76–89.
 //*****************************************************
 
 implementation
