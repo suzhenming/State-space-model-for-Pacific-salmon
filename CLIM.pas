@@ -1,9 +1,18 @@
-//*****************************************************
+//*********************************************************************************************************************************
 //  Code used in the MCMC sampling algorithm for a state-space model proposed by 
 //    Su (2023) “Management performance evaluation of state-space models for 
 //                 Pacific pink salmon stock-recruitment analysis” 
 //                 submitted for peer review and publication
-//*****************************************************
+//  
+//  (c) Zhenming Su, 2023
+//
+// This software is based on two previous articles listed below.
+// Peterman, R.M., Pyper, B.J., and Grout, J.A. 2000. Comparison of parameter estimation methods for detecting 
+//     climate-induced changes in productivity of Pacific salmon (Oncorhynchus spp.). Can. J. Fish. Aquat. Sci. 57: 181–191.
+// Dorner, B., Peterman, R.M., and Su, Z. 2009. Evaluation of performance of alternative management models of 
+//     Pacific salmon (Oncorhynchus spp.) in the presence of climatic change and outcome uncertainty 
+//     using Monte Carlo simulations. Can. J. Fish. Aquat. Sci. 66: 2199–2221. 
+//*******************************************************************************************************************************
 unit CLIM2;
 
 interface
